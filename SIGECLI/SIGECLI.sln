@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIGECLI", "SIGECLI\SIGECLI.csproj", "{FBDC6E0D-A2E8-4C9B-B816-A3627D85B92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDC6E0D-A2E8-4C9B-B816-A3627D85B92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDC6E0D-A2E8-4C9B-B816-A3627D85B92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDC6E0D-A2E8-4C9B-B816-A3627D85B92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDC6E0D-A2E8-4C9B-B816-A3627D85B92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB36CD6A-FC9A-48E1-99EE-B301F94BF52F}
+	EndGlobalSection
+EndGlobal
